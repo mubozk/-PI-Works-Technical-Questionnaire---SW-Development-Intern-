@@ -1,1 +1,1 @@
--PI-Works-Technical-Questionnaire---SW-Development-Intern-
+-PI-Works-Technical-Questionnaire---SW-Development-Intern- solution using object orientation and dynamic programming
